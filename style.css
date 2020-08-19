@@ -1,0 +1,107 @@
+@media only screen and (max-width: 719px) {
+    html {
+      font-size: 30% !important;
+    }
+  }
+  
+  @media only screen and (min-width: 720px) {
+    html {
+      font-size: 40% !important;
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    html {
+      font-size: 50% !important;
+    }
+  }
+  
+  @media only screen and (min-width: 1281px) {
+    html {
+      font-size: 62.5% !important;
+    }
+  }
+  
+  @media only screen and (min-width: 1367) {
+    html {
+      font-size: 70% !important;
+    }
+  }
+  
+  html {
+    background-color: #EFF4FC;
+   
+  }
+body{
+    background-color : #EFF4FC;
+}
+.nav-pills .pill-1 .nav-link:not(.active) {
+    background-color: rgba(27, 38, 44, 1);
+}
+
+.nav-pills .pill-2 .nav-link:not(.active) {
+    background-color:  rgba(27, 38, 44, 1);
+}
+
+.nav-pills .pill-3 .nav-link:not(.active) {
+    background-color: rgba(27, 38, 44, 1);
+    color: white;
+}
+.nav-pills .pill-1 .nav-link {
+    background-color: rgba(27, 38, 44, 0.2);
+    color: white;
+}
+
+.nav-pills .pill-2 .nav-link {
+    background-color:  rgba(27, 38, 44, 0.2);
+    color: white;
+}
+
+.nav-pills .pill-3 .nav-link {
+    background-color: rgba(27, 38, 44, 0.2);
+    color: white;
+}
+.nav-link{
+    color: white;
+    font-size: 2.5rem;
+
+}
+.main{
+    margin: 5rem 0;
+}
+.card{
+    margin-top: 3rem;
+    background-color:#6A61C5;
+    border: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 25px 30px #0000002c;
+    padding: 5rem;
+    margin: 3rem;
+    
+}
+.card-title{
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+    margin-bottom: 5rem;
+    font-weight: 700;
+}
+.imgbdy{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  border-radius: 20px;
+  box-shadow: 0 25px 30px #0000002c;
+  margin-top: 10px;
+  padding: 4rem;
+}
+
+.card-body p{
+    font-size: 2rem;
+    font-weight: 500;
+    color: white;
+}
+.second{
+  margin: 5rem 0;
+  margin: 3rem 3rem;
+}
